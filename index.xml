@@ -10,5 +10,14 @@
 	<atom:link href="https://lorettacambron.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://lorettacambron.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lorettacambron.dev/about/</guid>
+      <description>Hi! Welcome. I&amp;rsquo;m Loretta, a data scientist based in Chicago. I&amp;rsquo;m interested in technology&amp;rsquo;s social impact, and the many topics that are closely related. That&amp;rsquo;s what I&amp;rsquo;ll be discussing here.</description>
+    </item>
+    
   </channel>
 </rss>
