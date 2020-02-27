@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lorettacambron</title>
-    <link>https://lorettacambron.dev/</link>
-    <description>Recent content on lorettacambron</description>
+    <title>Posts on lorettacambron</title>
+    <link>https://lorettacambron.dev/posts/</link>
+    <description>Recent content in Posts on lorettacambron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 23 Feb 2020 18:24:46 -0600</lastBuildDate>
     
-	<atom:link href="https://lorettacambron.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lorettacambron.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://lorettacambron.dev/posts/why-is-explainability-important/</guid>
       <description>Goeff Hinton recently tweeted [1] a question that got me thinking. At first blush, explainability sounds fantastic, and to be clear, I&amp;rsquo;m pro-explainability. However, he poses an interesting thought - if a model, algorithm, or automated surgeon is more accurate than the prior human-run decision, does it matter if we can explain?
 After an initial positive reaction (If I had cancer, I&amp;rsquo;d choose the more accurate option and not question decisions made to get the cure), I&amp;rsquo;m drawn to questioning what happens when things go wrong.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lorettacambron.dev/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lorettacambron.dev/about/</guid>
-      <description>TEST Hi! Welcome. I&amp;rsquo;m Loretta, a data scientist based in Chicago. I&amp;rsquo;m interested in technology&amp;rsquo;s social impact, and the many topics that are closely related. That&amp;rsquo;s what I&amp;rsquo;ll be discussing here.</description>
     </item>
     
   </channel>
